@@ -1,0 +1,85 @@
+class.x,subclass,number,Pathway_Description
+Metabolism,Carbohydrate metabolism,hsa00010,Glycolysis / Gluconeogenesis
+Metabolism,Carbohydrate metabolism,hsa00020,Citrate cycle (TCA cycle)
+Metabolism,Carbohydrate metabolism,hsa00030,Pentose phosphate pathway
+Metabolism,Carbohydrate metabolism,hsa00040,Pentose and glucuronate interconversions
+Metabolism,Carbohydrate metabolism,hsa00051,Fructose and mannose metabolism
+Metabolism,Carbohydrate metabolism,hsa00052,Galactose metabolism
+Metabolism,Carbohydrate metabolism,hsa00053,Ascorbate and aldarate metabolism
+Metabolism,Lipid metabolism,hsa00061,Fatty acid biosynthesis
+Metabolism,Lipid metabolism,hsa00062,Fatty acid elongation
+Metabolism,Lipid metabolism,hsa00071,Fatty acid degradation
+Metabolism,Lipid metabolism,hsa00100,Steroid biosynthesis
+Metabolism,Lipid metabolism,hsa00120,Primary bile acid biosynthesis
+Metabolism,Metabolism of cofactors and vitamins,hsa00130,Ubiquinone and other terpenoid
+Metabolism,Lipid metabolism,hsa00140,Steroid hormone biosynthesis
+Metabolism,Energy metabolism,hsa00190,Oxidative phosphorylation
+Metabolism,Amino acid metabolism,hsa00220,Arginine biosynthesis
+Metabolism,Nucleotide metabolism,hsa00230,Purine metabolism
+Metabolism,Biosynthesis of other secondary metabolites,hsa00232,Caffeine metabolism
+Metabolism,Nucleotide metabolism,hsa00240,Pyrimidine metabolism
+Metabolism,Amino acid metabolism,hsa00250,"Alanine, aspartate and glutamate metabolism"
+Metabolism,Amino acid metabolism,hsa00260,"Glycine, serine and threonine metabolism"
+Metabolism,Amino acid metabolism,hsa00270,Cysteine and methionine metabolism
+Metabolism,Amino acid metabolism,hsa00280,"Valine, leucine and isoleucine degradation"
+Metabolism,Amino acid metabolism,hsa00290,"Valine, leucine and isoleucine biosynthesis"
+Metabolism,Amino acid metabolism,hsa00310,Lysine degradation
+Metabolism,Amino acid metabolism,hsa00330,Arginine and proline metabolism
+Metabolism,Amino acid metabolism,hsa00340,Histidine metabolism
+Metabolism,Amino acid metabolism,hsa00350,Tyrosine metabolism
+Metabolism,Amino acid metabolism,hsa00360,Phenylalanine metabolism
+Metabolism,Amino acid metabolism,hsa00380,Tryptophan metabolism
+Metabolism,Amino acid metabolism,hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+Metabolism,Metabolism of other amino acids,hsa00410,beta
+Metabolism,Metabolism of other amino acids,hsa00430,Taurine and hypotaurine metabolism
+Metabolism,Metabolism of other amino acids,hsa00440,Phosphonate and phosphinate metabolism
+Metabolism,Metabolism of other amino acids,hsa00450,Selenocompound metabolism
+Metabolism,Metabolism of other amino acids,hsa00470,D
+Metabolism,Metabolism of other amino acids,hsa00480,Glutathione metabolism
+Metabolism,Carbohydrate metabolism,hsa00500,Starch and sucrose metabolism
+Metabolism,Glycan biosynthesis and metabolism,hsa00510,N
+Metabolism,Glycan biosynthesis and metabolism,hsa00511,Other glycan degradation
+Metabolism,Glycan biosynthesis and metabolism,hsa00512,Mucin type O
+Metabolism,Glycan biosynthesis and metabolism,hsa00513,Various types of N
+Metabolism,Glycan biosynthesis and metabolism,hsa00514,Other types of O
+Metabolism,Glycan biosynthesis and metabolism,hsa00515,Mannose type O
+Metabolism,Carbohydrate metabolism,hsa00520,Amino sugar and nucleotide sugar metabolism
+Metabolism,Biosynthesis of other secondary metabolites,hsa00524,"Neomycin, kanamycin and gentamicin biosynthesis"
+Metabolism,Glycan biosynthesis and metabolism,hsa00531,Glycosaminoglycan degradation
+Metabolism,Glycan biosynthesis and metabolism,hsa00532,Glycosaminoglycan biosynthesis
+Metabolism,Glycan biosynthesis and metabolism,hsa00533,Glycosaminoglycan biosynthesis
+Metabolism,Glycan biosynthesis and metabolism,hsa00534,Glycosaminoglycan biosynthesis
+Metabolism,Lipid metabolism,hsa00561,Glycerolipid metabolism
+Metabolism,Carbohydrate metabolism,hsa00562,Inositol phosphate metabolism
+Metabolism,Glycan biosynthesis and metabolism,hsa00563,Glycosylphosphatidylinositol (GPI)
+Metabolism,Lipid metabolism,hsa00564,Glycerophospholipid metabolism
+Metabolism,Lipid metabolism,hsa00565,Ether lipid metabolism
+Metabolism,Lipid metabolism,hsa00590,Arachidonic acid metabolism
+Metabolism,Lipid metabolism,hsa00591,Linoleic acid metabolism
+Metabolism,Lipid metabolism,hsa00592,alpha
+Metabolism,Lipid metabolism,hsa00600,Sphingolipid metabolism
+Metabolism,Glycan biosynthesis and metabolism,hsa00601,Glycosphingolipid biosynthesis
+Metabolism,Glycan biosynthesis and metabolism,hsa00603,Glycosphingolipid biosynthesis
+Metabolism,Glycan biosynthesis and metabolism,hsa00604,Glycosphingolipid biosynthesis
+Metabolism,Carbohydrate metabolism,hsa00620,Pyruvate metabolism
+Metabolism,Carbohydrate metabolism,hsa00630,Glyoxylate and dicarboxylate metabolism
+Metabolism,Carbohydrate metabolism,hsa00640,Propanoate metabolism
+Metabolism,Carbohydrate metabolism,hsa00650,Butanoate metabolism
+Metabolism,Metabolism of cofactors and vitamins,hsa00670,One carbon pool by folate
+Metabolism,Metabolism of cofactors and vitamins,hsa00730,Thiamine metabolism
+Metabolism,Metabolism of cofactors and vitamins,hsa00740,Riboflavin metabolism
+Metabolism,Metabolism of cofactors and vitamins,hsa00750,Vitamin B6 metabolism
+Metabolism,Metabolism of cofactors and vitamins,hsa00760,Nicotinate and nicotinamide metabolism
+Metabolism,Metabolism of cofactors and vitamins,hsa00770,Pantothenate and CoA biosynthesis
+Metabolism,Metabolism of cofactors and vitamins,hsa00780,Biotin metabolism
+Metabolism,Metabolism of cofactors and vitamins,hsa00785,Lipoic acid metabolism
+Metabolism,Metabolism of cofactors and vitamins,hsa00790,Folate biosynthesis
+Metabolism,Metabolism of cofactors and vitamins,hsa00830,Retinol metabolism
+Metabolism,Metabolism of cofactors and vitamins,hsa00860,Porphyrin and chlorophyll metabolism
+Metabolism,Metabolism of terpenoids and polyketides,hsa00900,Terpenoid backbone biosynthesis
+Metabolism,Energy metabolism,hsa00910,Nitrogen metabolism
+Metabolism,Energy metabolism,hsa00920,Sulfur metabolism
+Metabolism,Xenobiotics biodegradation and metabolism,hsa00980,Metabolism of xenobiotics by cytochrome P450
+Metabolism,Xenobiotics biodegradation and metabolism,hsa00982,Drug metabolism
+Metabolism,Xenobiotics biodegradation and metabolism,hsa00983,Drug metabolism
+Metabolism,Lipid metabolism,hsa01040,Biosynthesis of unsaturated fatty acids
